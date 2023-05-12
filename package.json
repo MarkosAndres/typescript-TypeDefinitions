@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/MarkosAndres/typescript-TypeDefinitions/issues"
   },
-  "homepage": "https://github.com/MarkosAndres/typescript-TypeDefinitions#readme"
+  "homepage": "https://github.com/MarkosAndres/typescript-TypeDefinitions#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "uuid": "^9.0.0"
+  }
 }
