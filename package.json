@@ -18,6 +18,7 @@
   "homepage": "https://github.com/MarkosAndres/typescript-TypeDefinitions#readme",
   "devDependencies": {
     "@types/node": "^20.2.5",
+    "@types/request-promise": "^4.1.48",
     "ts-node": "^10.9.1",
     "typescript": "^5.0.4"
   },
